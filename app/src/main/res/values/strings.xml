@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">FirstHomeWork</string>
+    <string name="hello_teacher">Hello teacher!</string>
+    <string name="what_say">What say?</string>
+    <string name="ignore">IGNORE</string>
+    <string name="turn_off_notificatoin">turn off notificatoin</string>
+    <string name="a_place_for_your_ads">a place for your ads</string>
+    <string name="text">text</string>
+    <string name="textpersonname">text person name</string>
+    <string name="phone">phone</string>
+    <string name="number">number</string>
+    <string name="text_password">text password</string>
+    <string name="text_email_address">text email address</string>
+    <string name="other_information">other information</string>
 </resources>
